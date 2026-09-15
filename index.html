@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My First Webpage</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <style>
+        footer {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="header">
+
+        <h1 id="main-heading"> Askar Kairatbek</h1>
+        <h2>Web Technologies</h2>
+        <h3>My First Webpage</h3>
+
+    </header>
+
+    <main>
+        <div class="section about-section">
+            <div class="photo-container">
+
+                <img src="askar.jpeg" alt="Photo of Askar" class="profile-photo">
+
+            </div>
+
+
+            <div class="about-text">
+
+                <h2>About Me</h2>
+                <p>
+                    Hello! My name is Askar
+                    I am interested in programming,
+                    technology and web development.
+                    I enjoy learning new technologies
+                    and creating different projects
+                </p>
+                <p style="color: blue;">
+                    This paragraph uses inline CSS.
+                </p>
+                <p class="highlight">
+                    I am currently learning HTML and CSS!
+                </p>
+                <button type="button">
+                    Click Me
+                </button>
+
+            </div>
+
+        </div>
+
+        <div class="section two-column-section">
+
+            <div class="card">
+
+                <h2>My Hobbies</h2>
+
+                <ol>
+                    <li>Programming</li>
+                    <li>Gaming</li>
+                    <li>Football</li>
+                    <li>Travelling</li>
+                    <li>Watching movies</li>
+                </ol>
+
+            </div>
+
+            <div class="card">
+
+                <h2>Favorite Websites</h2>
+
+                <ul>
+
+                    <li>
+                        <a href="https://github.com" target="_blank">
+                            GitHub
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.youtube.com" target="_blank">
+                            YouTube
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.w3schools.com" target="_blank">
+                            W3Schools
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div class="section schedule-section">
+
+            <h2>My Weekly Schedule</h2>
+
+            <table>
+
+                <thead>
+
+                    <tr>
+                        <th>Subject</th>
+                        <th>Day</th>
+                        <th>Time</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>Web Technologies</td>
+                        <td>Monday</td>
+                        <td>10:00</td>
+                    </tr>
+
+                    <tr>
+                        <td>Algorithms</td>
+                        <td>Tuesday</td>
+                        <td>12:00</td>
+                    </tr>
+
+                    <tr>
+                        <td>English</td>
+                        <td>Wednesday</td>
+                        <td>14:00</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <div class="section mood-section">
+
+            <h2>My Mood Today</h2>
+
+            <p class="mood-text">
+                Today I feel happy 😎 because I am
+                learning web development 💻 and
+                drinking coffee ☕.
+            </p>
+
+        </div>
+
+        <div class="section form-section">
+
+            <h2>Contact Form</h2>
+
+
+            <form>
+
+                <div class="form-group">
+
+                    <label for="name"> Name:</label>
+
+                    <input
+                        type="text"
+                        id="name"
+                        name="name"
+                        placeholder="Enter your name"
+                        required
+                    >
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="email">
+                        Email:
+                    </label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="example@email.com"
+                        required
+                    >
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="color">
+                        Favorite Color:
+                    </label>
+
+                    <input
+                        type="color"
+                        id="color"
+                        name="color"
+                    >
+
+                </div>
+
+                <input
+                    type="submit"
+                    value="Submit"
+                    class="submit-button"
+                >
+
+            </form>
+
+        </div>
+
+        <div class="section">
+
+            <h2>CSS Positioning</h2>
+
+            <p>
+                This section demonstrates
+                static, relative and absolute positioning.
+            </p>
+
+
+            <div class="position-demo">
+
+                <div class="static-box">
+                    Static
+                </div>
+
+                <div class="relative-box">
+                    Relative
+                </div>
+
+                <div class="absolute-box">
+                    Absolute
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="section">
+
+            <h2>Float and Clear</h2>
+
+            <div class="float-container">
+                <div class="left-box">
+                    Float Left
+                </div>
+                <div class="right-box">
+                    Float Right
+                </div>
+                <div class="clear-box"></div>
+            </div>
+        </div>
+
+        <div class="section units-section">
+            <h2>CSS Units</h2>
+
+            <p>
+                This website uses different CSS units:
+                <strong>px</strong>,
+                <strong>%</strong>,
+                <strong>em</strong>
+                and
+                <strong>rem</strong>.
+            </p>
+        </div>
+
+    </main>
+</body>
+</html>
