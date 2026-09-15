@@ -87,3 +87,24 @@ I used float: left, float: right, and clear: both.
 
 ![Part 2 Screenshot](part4.png)
 ![Part 2 Screenshot](part4.1.png)
+
+# Final Website
+## My final webpage contains:
+
+Personal information
+Profile image
+Hobbies
+Favorite websites
+Weekly schedule
+Mood section
+Contact form
+CSS positioning example
+Float and clear example
+Responsive design
+
+![Part 2 Screenshot](part5.png)
+
+During this assignment, I learned how HTML is used to create the structure of a webpage and how CSS is used to control its appearance.
+I learned how to work with headings, paragraphs, lists, links, images, tables, forms, classes, IDs, CSS selectors, the box model, positioning, and different CSS units.
+The most interesting part of the assignment was styling the webpage with CSS and creating a structured layout.
+This assignment helped me better understand how HTML and CSS work together to create a complete webpage.
