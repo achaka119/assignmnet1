@@ -24,4 +24,4 @@ I also added clickable links using the <a> tag
 ## Step 4
 I added a simple Click Me button using the <button> tag.
 
-![Part 1 Screenshot](screenshots/part1.png)
+![Part 1 Screenshot](part1.png)
