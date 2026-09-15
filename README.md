@@ -91,16 +91,16 @@ I used float: left, float: right, and clear: both.
 # Final Website
 ## My final webpage contains:
 
-Personal information
-Profile image
-Hobbies
-Favorite websites
-Weekly schedule
-Mood section
-Contact form
-CSS positioning example
-Float and clear example
-Responsive design
+Personal information,
+Profile image,
+Hobbies,
+Favorite websites,
+Weekly schedule,
+Mood section,
+Contact form,
+CSS positioning example,
+Float and clear example,
+Responsive design,
 
 ![Part 2 Screenshot](part5.png)
 
