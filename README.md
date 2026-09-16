@@ -12,18 +12,20 @@ So in this part, I created an index.html file and added the basic HTML structure
 The title of the webpage is My First Webpage.
 
 ## Step 1
-I used differet heading tags like: <h1>, <h2>, <h3>
-I also added an About Me section using a paragraph <p>.
+I used differet heading tags like: ```<h1>, <h2> <h3> ```
 
+I also added an About Me section using a paragraph ```<p> ```
 ## Step 2
-I created An ordered list <ol> for my hobbies and unordered list <ul> for my favorite websites.
+
+I created An ordered list ```<ol> ``` for my hobbies and unordered list.
+```<ul>``` for my favorite websites.
 
 ## Step 3
-I added my profile image using the <img> tag.
-I also added clickable links using the <a> tag
+I added my profile image using the ``` <img> ``` tag.
+I also added clickable links using the ``` <a>``` tag
 
 ## Step 4
-I added a simple Click Me button using the <button> tag.
+I added a simple Click Me button using the ```<button> ``` tag.
 
 ![Part 1 Screenshot](part1.png)
 
@@ -71,7 +73,7 @@ Step 15: Favicon
 I added a favicon to the webpage.
 
 Step 16: Div Elements
-I used <div> elements to organize the webpage into sections.
+I used ```<div> ```elements to organize the webpage into sections.
 
 Step 17: CSS Box Model
 I used margin, padding, and borders.
