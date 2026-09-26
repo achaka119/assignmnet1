@@ -12,14 +12,15 @@ In this assignment, I created three pages to practise CSS Flexbox and Grid. I us
 
 I made a header with a logo on the left and navigation links on the right. I used Flexbox to align them and add space between the links.
 
-![Task 0 screenshot](screenshots/task0.png)
+![Task 0 screenshot](task0.png)
 
 ### Task 1 — Card Row
 
 I added three cards. Each card has an image, title, description, and button. The cards have equal height and a hover effect.
 
-![Task 1 screenshot](screenshots/task1.png)
-![Task 1.1 screenshot](screenshots/task1.1.png)
+![Task 1 screenshot](task1.png)
+
+![Task 1.1 screenshot](task1.1.png)
 
 ## Part 2: Grid
 
