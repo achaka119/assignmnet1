@@ -47,3 +47,5 @@ I created a portfolio page with a header, projects, sidebar, and footer. The nav
 ## Conclusion
 This assignment helped me understand when to use Flexbox and when to use Grid. Flexbox was useful for arranging elements in a row, such as navigation links and cards. Grid made it easier to create the page layout and image gallery. I also practised adding spacing, alignment, and hover effects.
 I started with the HTML structure for each page. Then I added CSS and adjusted the spacing and alignment. I checked the pages in a browser and fixed layout problems I noticed.
+
+ https://achaka119.github.io/assignmnet1/
