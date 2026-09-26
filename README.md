@@ -33,11 +33,9 @@ I used CSS Grid to place the header, sidebar, main content, and footer on the pa
 ### Task 3 — Image Gallery
 
 I created a gallery with nine images. The images are arranged in a grid, and a caption appears when I hover over an image.
+![Task 3 screenshot](task3.png)
 
 ## Part 3: Portfolio
-I created a portfolio page with a header, projects, sidebar, and footer. The navigation uses Flexbox, and the projects section uses Grid.
-
-![Task 3 screenshot](task3.png)
 
 ### Task 4 — Portfolio Page
 
