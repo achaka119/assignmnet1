@@ -1,112 +1,49 @@
-## Assignment 1
+# Assignment 2
 ## Name: Askar Kairatbek
-## Group: IT-2501
+## group: IT-2501
 
-The objective of this assignment was to learn the basics of HTML and CSS and create a simple personal webpage.
-During this assignment, I practiced working with HTML elements such as headings, paragraphs, lists, images, links, tables, buttons, and forms.
-I also learned how to use CSS to style a webpage using colors, fonts, spacing, borders, positioning, and different selectors
+## About the project
 
-Part 1: Introduction to HTML
-## Step 0
-So in this part, I created an index.html file and added the basic HTML structure:<!DOCTYPE html>, <html>, <head>, <title>, <body>
-The title of the webpage is My First Webpage.
+In this assignment, I created three pages to practise CSS Flexbox and Grid. I used Flexbox for navigation and cards, and Grid for the page layout, gallery, and portfolio section.
 
-## Step 1
-I used differet heading tags like: ```<h1>, <h2> <h3> ```
+## Part 1: Flexbox
 
-I also added an About Me section using a paragraph ```<p> ```
-## Step 2
+### Task 0 — Navigation Bar
 
-I created An ordered list ```<ol> ``` for my hobbies and unordered list.
-```<ul>``` for my favorite websites.
+I made a header with a logo on the left and navigation links on the right. I used Flexbox to align them and add space between the links.
 
-## Step 3
-I added my profile image using the ``` <img> ``` tag.
-I also added clickable links using the ``` <a>``` tag
+![Task 0 screenshot](screenshots/task0.png)
 
-## Step 4
-I added a simple Click Me button using the ```<button> ``` tag.
+### Task 1 — Card Row
 
-![Part 1 Screenshot](part1.png)
+I added three cards. Each card has an image, title, description, and button. The cards have equal height and a hover effect.
 
-Part 2: Intermediate HTML
-## Step 5 
-created a weekly schedule using an HTML table.
-The table contains three columns: Subject, Day, Time
+![Task 1 screenshot](screenshots/task1.png)
+![Task 1.1 screenshot](screenshots/task1.1.png)
 
-## Step 6
-The webpage contains multiple sections that organize the content into a structured layout.
+## Part 2: Grid
 
-## Step 7
-I added emojis to the webpage to describe my mood.
-Example: 😎 💻 ☕
+### Task 2 — Page Layout
 
-Step 8 
-I created a form containing:
-Name input
-Email input
-Favorite Color input
-Submit button
+I used CSS Grid to place the header, sidebar, main content, and footer on the page.
 
-![Part 2 Screenshot](part2.png)
-![Part 2 Screenshot](part2.2.png)
+![Task 2 screenshot](screenshots/task2.png)
 
-Part 3 — Introduction to CSS
-Steps 9–12: CSS Styling
+### Task 3 — Image Gallery
 
-I used inline, internal, and external CSS to style my webpage.
-The main CSS styles are stored in the style.css file.
+I created a gallery with nine images. The images are arranged in a grid, and a caption appears when I hover over an image.
 
-Steps 13–14 — CSS Selectors
+![Task 3 screenshot](screenshots/task3.png)
 
-I used:
-Element selectors such as body
-Class selectors such as .highlight
-ID selectors such as #main-heading
+## Part 3: Portfolio
 
-The .highlight class is used for multiple elements, while #main-heading is used for one unique element.
+### Task 4 — Portfolio Page
 
-![Part 2 Screenshot](part3.png)
+I created a portfolio page with a header, projects, sidebar, and footer. The navigation uses Flexbox, and the projects section uses Grid.
 
-Part 4: Intermediate CSS
-Step 15: Favicon
-I added a favicon to the webpage.
+![Task 4 screenshot](screenshots/task4.png)
+![Task 4 screenshot](screenshots/task4.1.png)
 
-Step 16: Div Elements
-I used ```<div> ```elements to organize the webpage into sections.
+## Work process
 
-Step 17: CSS Box Model
-I used margin, padding, and borders.
-
-Step 18: CSS Positioning
-I demonstrated static, relative, and absolute positioning.
-
-Step 19: CSS Sizing
-I used px, %, em, and rem units.
-
-Step 20: Float and Clear
-I used float: left, float: right, and clear: both.
-
-![Part 2 Screenshot](part4.png)
-![Part 2 Screenshot](part4.1.png)
-
-# Final Website
-## My final webpage contains:
-
-Personal information,
-Profile image,
-Hobbies,
-Favorite websites,
-Weekly schedule,
-Mood section,
-Contact form,
-CSS positioning example,
-Float and clear example,
-Responsive design,
-
-![Part 2 Screenshot](part5.png)
-
-During this assignment, I learned how HTML is used to create the structure of a webpage and how CSS is used to control its appearance.
-I learned how to work with headings, paragraphs, lists, links, images, tables, forms, classes, IDs, CSS selectors, the box model, positioning, and different CSS units.
-The most interesting part of the assignment was styling the webpage with CSS and creating a structured layout.
-This assignment helped me better understand how HTML and CSS work together to create a complete webpage.
+I started with the HTML structure for each page. Then I added CSS and adjusted the spacing and alignment. I checked the pages in a browser and fixed layout problems I noticed.
